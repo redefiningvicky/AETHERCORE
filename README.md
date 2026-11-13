@@ -18,7 +18,6 @@
   <li><a href="#project-details">Project Details</a></li>
   <li><a href="#prompt">Prompt</a></li>
   <li><a href="#visual-narrative">Visual Narrative</a></li>
-  <li><a href="#visual-narrative-time">Visual Narrative Time</a></li>
   <li><a href="#images">images</a></li>
 
 </ul>
@@ -100,6 +99,20 @@
 
 </details>
 
+<details>
+  <summary><strong>View Images Prompt</strong></summary>
+
+  <p>
+Using screenshots extracted strictly from the uploaded video, generate four individual single-panel storyboard frames at 1080p resolution (1920x1080, 16:9 aspect ratio). Frame each screenshot inside a matte-black 35mm cinema border featuring white sprocket perforations along the top and bottom edges and amber monospace film-edge markings (stock code, timecode, and stage label in the bottom-right corner), with no centered white text: <p>
+Stage 1 (Start): Extreme macro close-up focus on the AetherCore photonic micro-processor's intricate silver circuit traces and glowing amber/turquoise quartz pathways. <p>
+Stage 2 (Transition): Mid-transition tracking shot gliding smoothly backward from the glass circuit table through the warm mass-timber and architectural glass structure. <p>
+Stage 3 (Interior): Wide interior reveal passing the floor-to-ceiling glass windows to showcase the zero-waste living space and forest backdrop. <p>
+Stage 4 (End): Pristine wide exterior view of the complete cabin nestled beside the flowing mountain stream and lush forest ecosystem under warm golden hour light. <p>
+Export the 4 individual 1080p JPG files packaged together in a single ZIP archive.
+  </p>
+
+</details>
+
 <hr>
 
 <h2 id="visual-narrative">🎥 Visual Narrative</h2>
@@ -116,16 +129,42 @@
   <li><strong>Stage 4 (End):</strong> Pristine wide exterior shot looking back at the complete cabin nestled by a flowing mountain stream under golden hour light.</li>
 </ul>
 
-<hr>
-
-<h2 id="visual-narrative-time">🕰️ Visual Narrative Time</h2>
-
-<ul>
-  <li><strong>Stage 1 (Start):</strong> 00:00.2</li>
-  <li><strong>Stage 2 (Transition):</strong> 00:03.5</li>
-  <li><strong>Stage 3 (Interior):</strong> 00:06.0</li>
-  <li><strong>Stage 4 (End):</strong> 00:09.5</li>
-</ul>
+<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; text-align: left; font-family: sans-serif;">
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th>Stage</th>
+      <th>Decimal Seconds</th>
+      <th>Film Timecode (HH:MM:SS:FF)</th>
+      <th>Frame Count (at 24 FPS)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Stage 1 (Start)</strong></td>
+      <td>0.2s</td>
+      <td><code>00:00:00:05</code></td>
+      <td>Frame 5</td>
+    </tr>
+    <tr>
+      <td><strong>Stage 2 (Transition)</strong></td>
+      <td>3.5s</td>
+      <td><code>00:00:03:12</code></td>
+      <td>Frame 84</td>
+    </tr>
+    <tr>
+      <td><strong>Stage 3 (Interior)</strong></td>
+      <td>6.0s</td>
+      <td><code>00:00:06:00</code></td>
+      <td>Frame 144</td>
+    </tr>
+    <tr>
+      <td><strong>Stage 4 (End)</strong></td>
+      <td>9.5s</td>
+      <td><code>00:00:09:12</code></td>
+      <td>Frame 228</td>
+    </tr>
+  </tbody>
+</table>
 
 <h2 id="video">🎥 Video</h2>
 
