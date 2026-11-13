@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>🌲 PHOTONIC AETHERCORE</h1>
+  <h1>🌲 AETHERCORE</h1>
 
   <p>
     A 10-second cinematic sequence bridging 
