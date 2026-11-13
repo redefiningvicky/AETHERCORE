@@ -30,7 +30,7 @@
 
 <p>
   This project is a cinematic video that explores the 
-  symbiosis between advanced decentralized technology and regenerative natural ecosystems. 
+  symbiosis between advanced technology and regenerative natural ecosystems. 
   The sequence features a continuous, 10-second camera pullback that starts from an extreme macro view 
   of a photonic processor chip. Then glides outward through a cabin to reveal 
   a pristine mountain stream and forest valley. Developed using Gemini iterative prompt engineering and video AI generation for a futuristic vision.
