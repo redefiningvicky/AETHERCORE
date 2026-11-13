@@ -38,6 +38,21 @@
 <hr>
 
 <h2 id="inspiration">🎬 Inspiration</h2>
+<h3>Wired's I Saw the Face of God in a Semiconductor Factory</h3>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://media.wired.com/clips/64184054b19ad4e3186e0677/master/pass/BF_WIRED_ANIMATION_FINALE_Backhannel.mp4">
+        <img
+          src="https://via.placeholder.com/480x270.png?text=Play+Video"
+          alt="Watch Wired inspiration video"
+          width="480"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <hr>
 
