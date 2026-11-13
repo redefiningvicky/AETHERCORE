@@ -86,10 +86,10 @@
 </p>
 
 <ul>
-  <li><strong>Stage 1 (Start):</strong> Extreme macro close-up on the AetherCore micro-processor's intricate silver circuit traces, quartz crystals, and pulsing amber/turquoise light pathways.</li>
-  <li><strong>Stage 2 (Transition):</strong> Mid-transition tracking shot gliding backward away from the chip table, revealing the warm interior depth of the mass-timber structure.</li>
-  <li><strong>Stage 3 (Interior):</strong> Wide interior view showcasing the sleek zero-waste living space and floor-to-ceiling glass windows framing the forest outside.</li>
-  <li><strong>Stage 4 (End):</strong> Pristine wide exterior shot looking back at the complete cabin nestled by a flowing mountain stream under golden hour light.</li>
+  <li><strong>Stage 1 (Start):</strong> 00:00.2. Extreme macro close-up on the AetherCore micro-processor's intricate silver circuit traces, quartz crystals, and pulsing amber/turquoise light pathways.</li>
+  <li><strong>Stage 2 (Transition):</strong> 00:03.5. Mid-transition tracking shot gliding backward away from the chip table, revealing the warm interior depth of the mass-timber structure.</li>
+  <li><strong>Stage 3 (Interior):</strong> 00:06.0. Wide interior view showcasing the sleek zero-waste living space and floor-to-ceiling glass windows framing the forest outside.</li>
+  <li><strong>Stage 4 (End):</strong> 00:09.5. Pristine wide exterior shot looking back at the complete cabin nestled by a flowing mountain stream under golden hour light.</li>
 </ul>
 
 <hr>
