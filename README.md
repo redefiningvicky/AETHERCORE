@@ -17,8 +17,9 @@
   <li><a href="#objective">Objective</a></li>
   <li><a href="#project-details">Project Details</a></li>
   <li><a href="#visual-narrative">Visual Narrative</a></li>
-  <li><a href="#prompts">Prompts & Storyboard</a></li>
-  <li><a href="#links">Project Links</a></li>
+  <li><a href="#prompts">Prompts</a></li>
+  <li><a href="#film">Film</a></li>
+
 </ul>
 
 <hr>
@@ -31,7 +32,7 @@
   The sequence features a continuous, 10-second camera pullback starting from an extreme macro view 
   of a photonic processor chip and gliding outward through a mass-timber cabin to reveal 
   a pristine mountain stream and forest valley. Developed using Gemini iterative prompt engineering, 
-  structured multi-frame keyframing, and video AI generation pipelines.
+  structured multi-frame keyframing, and video AI generation.
 </p>
 
 <hr>
@@ -39,7 +40,7 @@
 <h2 id="project-details">🛠️ Project Details</h2>
 
 <p>
-  <strong>Tools:</strong> Gemini, Google Veo
+  <strong>Tools:</strong> Gemini
 </p>
 
 <p>
@@ -52,7 +53,7 @@
 
 <hr>
 
-<h2 id="visual-narrative">🎬 Visual Narrative & Pacing</h2>
+<h2 id="visual-narrative">🎥 Visual Narrative</h2>
 
 <p>
   To eliminate geometric warping and layout drift, the 10-second video is structured 
@@ -68,10 +69,10 @@
 
 <hr>
 
-<h2 id="prompts">🤵🏻 Prompts & Workflow</h2>
+<h2 id="prompts">⌨️ Prompt</h2>
 
 <details>
-  <summary><strong>View Master Video Prompt</strong></summary>
+  <summary><strong>View Video Prompt</strong></summary>
 
   <p>
     Cinematic documentary footage, 1080p resolution, 16:9 aspect ratio, 
@@ -88,6 +89,10 @@
   </p>
 
 </details>
+
+<hr>
+
+<h2 id="prompts">🎞️ Film</h2>
 
 <hr>
 
