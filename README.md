@@ -3,8 +3,7 @@
   <h1>🌲 AETHERCORE</h1>
 
   <p>
-    A 10-second cinematic video bridging 
-    photonic computing with forest habitat as symbiosis.
+    A 10-second cinematic video bridging computing and a forest habitat, illustrating their intersection and symbiosis.
   </p>
 
 </div>
