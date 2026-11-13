@@ -17,10 +17,10 @@
   <li><a href="#objective">Objective</a></li>
   <li><a href="#inspiration">Inspiration</a></li>
   <li><a href="#project-details">Project Details</a></li>
+  <li><a href="#prompt">Prompt</a></li>
   <li><a href="#visual-narrative">Visual Narrative</a></li>
   <li><a href="#visual-narrative-time">Visual Narrative Time</a></li>
-  <li><a href="#prompt">Prompt</a></li>
-  <li><a href="#film">Film</a></li>
+  <li><a href="#images">images</a></li>
 
 </ul>
 
@@ -80,6 +80,29 @@
 
 <hr>
 
+<h2 id="prompt">⌨️ Prompt</h2>
+
+<details>
+  <summary><strong>View Video Prompt</strong></summary>
+
+  <p>
+    Cinematic documentary footage, 1080p resolution, 16:9 aspect ratio, 
+    perfectly paced 10-second continuous slow-motion tracking shot, photorealistic. 
+    The camera executes a seamless, fluid macro-to-wide spatial pullback across the 4-panel storyboard: 
+    beginning with an extreme macro close-up focus on the AetherCore photonic micro-processor's intricate 
+    silver circuit traces and glowing amber quartz crystals in the top-left panel; gliding smoothly and 
+    deliberately backward through the warm mass-timber and architectural glass habitat structure in the top-right panel; 
+    passing the massive floor-to-ceiling windows to reveal the interior living space in the bottom-left panel; 
+    and finally transitioning entirely outside to a breathtaking, pristine view of the flowing mountain stream 
+    and lush forest ecosystem under warm golden hour light in the bottom-right panel. 
+    Absolute silence, zero-waste modern habitat harmony, consistent lighting, and rigorous structural 
+    geometric integrity maintained throughout the entire continuous camera move.
+  </p>
+
+</details>
+
+<hr>
+
 <h2 id="visual-narrative">🎥 Visual Narrative</h2>
 
 <p>
@@ -105,32 +128,17 @@
   <li><strong>Stage 4 (End):</strong> 00:09.5</li>
 </ul>
 
-<hr>
+<h2 id="video">🎥 Video</h2>
 
-<h2 id="prompt">⌨️ Prompt</h2>
-
-<details>
-  <summary><strong>View Video Prompt</strong></summary>
-
-  <p>
-    Cinematic documentary footage, 1080p resolution, 16:9 aspect ratio, 
-    perfectly paced 10-second continuous slow-motion tracking shot, photorealistic. 
-    The camera executes a seamless, fluid macro-to-wide spatial pullback across the 4-panel storyboard: 
-    beginning with an extreme macro close-up focus on the AetherCore photonic micro-processor's intricate 
-    silver circuit traces and glowing amber quartz crystals in the top-left panel; gliding smoothly and 
-    deliberately backward through the warm mass-timber and architectural glass habitat structure in the top-right panel; 
-    passing the massive floor-to-ceiling windows to reveal the interior living space in the bottom-left panel; 
-    and finally transitioning entirely outside to a breathtaking, pristine view of the flowing mountain stream 
-    and lush forest ecosystem under warm golden hour light in the bottom-right panel. 
-    Absolute silence, zero-waste modern habitat harmony, consistent lighting, and rigorous structural 
-    geometric integrity maintained throughout the entire continuous camera move.
-  </p>
-
-</details>
+<p>
+  <a href="https://redefiningvicky.github.io/My-Ecrin/">
+    Watch Video
+  </a>
+</p>
 
 <hr>
 
-<h2 id="film">🎞️ Film</h2>
+<h2 id="Images">🎞️ Images </h2>
 
 <h3>Stage 1 (Start)</h3>
 
