@@ -3,7 +3,7 @@
   <h1>🌲 PHOTONIC AETHERCORE</h1>
 
   <p>
-    A high-end 10-second cinematic sequence bridging 
+    A 10-second cinematic sequence bridging 
     microscopic photonic computing with a zero-waste forest habitat.
   </p>
 
