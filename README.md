@@ -100,17 +100,15 @@
 
 <hr>
 
-<h2 id="links">🔗 Project Links</h2>
-
 <div align="center">
 
   <p>
-    <a href="https://github.com/redefiningvicky/redefiningvicky">
-      GitHub Profile (@redefiningvicky)
+    <a href="https://github.com/redefiningvicky/Generative-AI-Projects">
+      Back to Generative AI Projects
     </a>
-      •  
-    <a href="https://redefiningvicky.vercel.app">
-      Portfolio Website
+    &nbsp; • &nbsp;
+    <a href="https://github.com/redefiningvicky/redefiningvicky">
+      Back to Portfolio
     </a>
   </p>
 
