@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>🌲 PHOTONIC AETHERCORE</h1>
+  <h1>🌲 AETHERCORE</h1>
 
   <p>
     A 10-second cinematic sequence bridging 
@@ -48,6 +48,7 @@
         <img
           src="https://media.wired.com/photos/6414974c413564e54490fe19/4:3/w_1800,h_1350,c_limit/BF_WIRED_EXPORT_STILL_LEAD_IMAGE_Backchannel.jpg"
           width="480"
+          alt="Wired's I Saw the Face of God in a Semiconductor Factory"
         />
       </a>
     </td>
@@ -86,10 +87,10 @@
 </p>
 
 <ul>
-  <li><strong>Stage 1 (Start):</strong> Extreme macro close-up on the AetherCore micro-processor's intricate silver circuit traces, quartz crystals, and pulsing amber/turquoise light pathways.</li>
-  <li><strong>Stage 2 (Transition):</strong> Mid-transition tracking shot gliding backward away from the chip table, revealing the warm interior depth of the mass-timber structure.</li>
-  <li><strong>Stage 3 (Interior):</strong> Wide interior view showcasing the sleek zero-waste living space and floor-to-ceiling glass windows framing the forest outside.</li>
-  <li><strong>Stage 4 (End):</strong> Pristine wide exterior shot looking back at the complete cabin nestled by a flowing mountain stream under golden hour light.</li>
+  <li><strong>Stage 1 (Start):</strong> 00:00.2. Extreme macro close-up on the AetherCore micro-processor's intricate silver circuit traces, quartz crystals, and pulsing amber/turquoise light pathways.</li>
+  <li><strong>Stage 2 (Transition):</strong> 00:03.5. Mid-transition tracking shot gliding backward away from the chip table, revealing the warm interior depth of the mass-timber structure.</li>
+  <li><strong>Stage 3 (Interior):</strong> 00:06.0. Wide interior view showcasing the sleek zero-waste living space and floor-to-ceiling glass windows framing the forest outside.</li>
+  <li><strong>Stage 4 (End):</strong> 00:09.5. Pristine wide exterior shot looking back at the complete cabin nestled by a flowing mountain stream under golden hour light.</li>
 </ul>
 
 <hr>
@@ -118,6 +119,62 @@
 <hr>
 
 <h2 id="film">🎞️ Film</h2>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/redefiningvicky/AETHERCORE/blob/main/Image/Aethercore_Stage_1_Start.jpg">
+        <img
+          src="Image/Aethercore_Stage_1_Start.jpg"
+          alt="Stage_1_Start"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/redefiningvicky/AETHERCORE/blob/main/Image/Aethercore_Stage_2_Transition.jpg">
+        <img
+          src="Image/Aethercore_Stage_2_Transition.jpg"
+          alt="Stage_2_Transition"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/redefiningvicky/AETHERCORE/blob/main/Image/Aethercore_Stage_3_Interior.jpg">
+        <img
+          src="Image/Aethercore_Stage_3_Interior.jpg"
+          alt="Stage_3_Interior"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/redefiningvicky/AETHERCORE/blob/main/Image/Aethercore_Stage_4_End.jpg">
+        <img
+          src="Image/Aethercore_Stage_4_End.jpg"
+          alt="Stage_4_End"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <hr>
 
