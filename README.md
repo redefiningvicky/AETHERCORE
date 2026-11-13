@@ -119,6 +119,62 @@
 
 <h2 id="film">🎞️ Film</h2>
 
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/redefiningvicky/AETHERCORE/blob/main/Image/Aethercore_Stage_1_Start.jpg">
+        <img
+          src="Image/Aethercore_Stage_1_Start.jpg"
+          alt="Stage_1_Start"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/redefiningvicky/AETHERCORE/blob/main/Image/Aethercore_Stage_2_Transition.jpg">
+        <img
+          src="Image/Aethercore_Stage_2_Transition.jpg"
+          alt="Stage_2_Transition"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/redefiningvicky/AETHERCORE/blob/main/Image/Aethercore_Stage_3_Interior.jpg">
+        <img
+          src="Image/Aethercore_Stage_3_Interior.jpg"
+          alt="Stage_3_Interior"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/redefiningvicky/AETHERCORE/blob/main/Image/Aethercore_Stage_4_End.jpg">
+        <img
+          src="Image/Aethercore_Stage_4_End.jpg"
+          alt="Stage_4_End"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
 <hr>
 
 <div align="center">
