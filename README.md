@@ -38,6 +38,7 @@
 <hr>
 
 <h2 id="inspiration">🎬 Inspiration</h2>
+
 <h3>Wired's I Saw the Face of God in a Semiconductor Factory</h3>
 
 <table>
@@ -45,7 +46,7 @@
     <td>
       <a href="https://media.wired.com/clips/64184054b19ad4e3186e0677/master/pass/BF_WIRED_ANIMATION_FINALE_Backhannel.mp4">
         <img
-          src="https://via.placeholder.com/480x270.png?text=Play+Video"
+          src="https://media.wired.com/photos/6414974c413564e54490fe19/4:3/w_1800,h_1350,c_limit/BF_WIRED_EXPORT_STILL_LEAD_IMAGE_Backchannel.jpg"
           alt="Watch Wired inspiration video"
           width="480"
         />
@@ -53,6 +54,8 @@
     </td>
   </tr>
 </table>
+
+<a href="https://media.wired.com/clips/64184054b19ad4e3186e0677/master/pass/BF_WIRED_ANIMATION_FINALE_Backhannel.mp4">Watch Wired inspiration video</a>
 
 <hr>
 
@@ -88,7 +91,7 @@
 
 <hr>
 
-<h2 id="prompts">⌨️ Prompt</h2>
+<h2 id="prompt">⌨️ Prompt</h2>
 
 <details>
   <summary><strong>View Video Prompt</strong></summary>
@@ -111,7 +114,7 @@
 
 <hr>
 
-<h2 id="prompts">🎞️ Film</h2>
+<h2 id="film">🎞️ Film</h2>
 
 <hr>
 
