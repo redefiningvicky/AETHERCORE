@@ -39,11 +39,15 @@
 <h2 id="project-details">🛠️ Project Details</h2>
 
 <p>
-  <strong>Tools:</strong> Gemini, Google Veo / Video Generation Pipeline
+  <strong>Tools:</strong> Gemini, Google Veo
 </p>
 
 <p>
-  <strong>Model:</strong> Gemini 4 Argon & Advanced Video Generation (2026)
+  <strong>Model:</strong> Gemini 4 Argon (2026)
+</p>
+
+<p>
+  <strong>Pipeline:</strong> Gemini → Google Veo
 </p>
 
 <hr>
@@ -51,15 +55,15 @@
 <h2 id="visual-narrative">🎬 Visual Narrative & Pacing</h2>
 
 <p>
-  To eliminate geometric warping and layout drift, the 15-second video is structured 
-  around a 4-panel storyboard sequence (approx. 3.75 seconds per transition phase):
+  To eliminate geometric warping and layout drift, the 10-second video is structured 
+  around a 4-panel storyboard sequence:
 </p>
 
 <ul>
-  <li><strong>Stage 1 (~0s):</strong> Extreme macro close-up on the AetherCore micro-processor's intricate silver circuit traces, quartz crystals, and pulsing amber/turquoise light pathways.</li>
-  <li><strong>Stage 2 (~5s):</strong> Mid-transition tracking shot gliding backward away from the chip table, revealing the warm interior depth of the mass-timber structure.</li>
-  <li><strong>Stage 3 (~10s):</strong> Wide interior view showcasing the sleek zero-waste living space and floor-to-ceiling glass windows framing the forest outside.</li>
-  <li><strong>Stage 4 (~15s):</strong> Pristine wide exterior shot looking back at the complete cabin nestled by a flowing mountain stream under golden hour light.</li>
+  <li><strong>Stage 1 (Start):</strong> Extreme macro close-up on the AetherCore micro-processor's intricate silver circuit traces, quartz crystals, and pulsing amber/turquoise light pathways.</li>
+  <li><strong>Stage 2 (Transition):</strong> Mid-transition tracking shot gliding backward away from the chip table, revealing the warm interior depth of the mass-timber structure.</li>
+  <li><strong>Stage 3 (Interior):</strong> Wide interior view showcasing the sleek zero-waste living space and floor-to-ceiling glass windows framing the forest outside.</li>
+  <li><strong>Stage 4 (End):</strong> Pristine wide exterior shot looking back at the complete cabin nestled by a flowing mountain stream under golden hour light.</li>
 </ul>
 
 <hr>
@@ -71,7 +75,7 @@
 
   <p>
     Cinematic documentary footage, 1080p resolution, 16:9 aspect ratio, 
-    perfectly paced 15-second continuous slow-motion tracking shot, photorealistic. 
+    perfectly paced 10-second continuous slow-motion tracking shot, photorealistic. 
     The camera executes a seamless, fluid macro-to-wide spatial pullback across the 4-panel storyboard: 
     beginning with an extreme macro close-up focus on the AetherCore photonic micro-processor's intricate 
     silver circuit traces and glowing amber quartz crystals in the top-left panel; gliding smoothly and 
