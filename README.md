@@ -28,10 +28,10 @@
 <h2 id="objective">🎯 Objective</h2>
 
 <p>
-  PHOTONIC AETHERCORE is a cinematic video project exploring the 
+  This project is a cinematic video that exploes the 
   symbiosis between advanced decentralized technology and regenerative natural ecosystems. 
   The sequence features a continuous, 10-second camera pullback starting from an extreme macro view 
-  of a photonic processor chip and gliding outward through a mass-timber cabin to reveal 
+  of a photonic processor chip. Then gliding outward through a mass-timber cabin to reveal 
   a pristine mountain stream and forest valley. Developed using Gemini iterative prompt engineering and video AI generation.
 </p>
 
