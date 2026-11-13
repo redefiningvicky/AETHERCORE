@@ -3,7 +3,7 @@
   <h1>🌲 AETHERCORE</h1>
 
   <p>
-    A 10-second cinematic video bridging computing and a forest habitat, illustrating their intersection and symbiosis.
+    A 10-second cinematic video bridging a photonic processor and a forest habitat, illustrating their regenerative symbiosis.
   </p>
 
 </div>
@@ -18,7 +18,7 @@
   <li><a href="#project-details">Project Details</a></li>
   <li><a href="#prompt">Prompt</a></li>
   <li><a href="#visual-narrative">Visual Narrative</a></li>
-  <li><a href="#images">images</a></li>
+  <li><a href="#images">Images</a></li>
 
 </ul>
 
@@ -27,11 +27,7 @@
 <h2 id="objective">🎯 Objective</h2>
 
 <p>
-  This project is a cinematic video that explores the 
-  symbiosis between advanced technology and regenerative natural ecosystems. 
-  The sequence features a continuous, 10-second camera pullback that starts from an extreme macro view 
-  of a photonic processor chip. Then glides outward through a cabin to reveal 
-  a pristine mountain stream and forest valley. Developed using Gemini iterative prompt engineering and video AI generation for a futuristic vision.
+This project is a cinematic video that explores the symbiosis between advanced technology and regenerative natural ecosystems. The sequence features a continuous, 10-second camera pullback that starts from an extreme macro view of a photonic processor chip, then glides outward through a mass-timber cabin to reveal a pristine mountain stream and forest valley. Developed using Gemini iterative prompt engineering and video AI generation for a futuristic vision.
 </p>
 
 <hr>
@@ -169,14 +165,14 @@ Export the 4 individual 1080p JPG files packaged together in a single ZIP archiv
 <h2 id="video">🎥 Video</h2>
 
 <p>
-  <a href="https://redefiningvicky.github.io/My-Ecrin/">
+  <a href="https://redefiningvicky.github.io/AETHERCORE/">
     Watch Video
   </a>
 </p>
 
 <hr>
 
-<h2 id="Images">🎞️ Images </h2>
+<h2 id="images">🎞️ Images </h2>
 
 <h3>Stage 1 (Start)</h3>
 
