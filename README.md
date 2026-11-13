@@ -48,6 +48,7 @@
         <img
           src="https://media.wired.com/photos/6414974c413564e54490fe19/4:3/w_1800,h_1350,c_limit/BF_WIRED_EXPORT_STILL_LEAD_IMAGE_Backchannel.jpg"
           width="480"
+          alt="Wired's I Saw the Face of God in a Semiconductor Factory"
         />
       </a>
     </td>
