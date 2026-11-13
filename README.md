@@ -32,8 +32,7 @@
   symbiosis between advanced decentralized technology and regenerative natural ecosystems. 
   The sequence features a continuous, 10-second camera pullback starting from an extreme macro view 
   of a photonic processor chip and gliding outward through a mass-timber cabin to reveal 
-  a pristine mountain stream and forest valley. Developed using Gemini iterative prompt engineering, 
-  structured multi-frame keyframing, and video AI generation.
+  a pristine mountain stream and forest valley. Developed using Gemini iterative prompt engineering and video AI generation.
 </p>
 
 <hr>
