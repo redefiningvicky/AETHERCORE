@@ -72,6 +72,10 @@
   <strong>Pipeline:</strong> Gemini → Google Veo
 </p>
 
+<p>
+  <strong>Format:</strong> Video
+</p>
+
 <hr>
 
 <h2 id="visual-narrative">🎥 Visual Narrative</h2>
