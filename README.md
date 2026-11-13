@@ -47,7 +47,7 @@
       <a href="https://media.wired.com/clips/64184054b19ad4e3186e0677/master/pass/BF_WIRED_ANIMATION_FINALE_Backhannel.mp4">
         <img
           src="https://media.wired.com/photos/6414974c413564e54490fe19/4:3/w_1800,h_1350,c_limit/BF_WIRED_EXPORT_STILL_LEAD_IMAGE_Backchannel.jpg"
-          alt="Watch Wired inspiration video"
+          alt="Watch Video"
           width="480"
         />
       </a>
