@@ -57,7 +57,7 @@ This project is a cinematic video that explores the symbiosis between advanced t
 <h2 id="project-details">🛠️ Project Details</h2>
 
 <p>
-  <strong>Tools:</strong> Gemini
+  <strong>Tools:</strong> Gemini, Github
 </p>
 
 <p>
