@@ -18,6 +18,7 @@
   <li><a href="#project-details">Project Details</a></li>
   <li><a href="#prompt">Prompt</a></li>
   <li><a href="#visual-narrative">Visual Narrative</a></li>
+  <li><a href="#time">Time</a></li>
   <li><a href="#images">Images</a></li>
 
 </ul>
@@ -125,6 +126,10 @@ Export the 4 individual 1080p JPG files packaged together in a single ZIP archiv
   <li><strong>Stage 4 (End):</strong> Pristine wide exterior shot looking back at the complete cabin nestled by a flowing mountain stream under golden hour light.</li>
 </ul>
 
+<hr>
+
+<h2 id="Time">🕰️ Time</h2>
+
 <table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; text-align: left; font-family: sans-serif;">
   <thead>
     <tr style="background-color: #f2f2f2;">
@@ -161,6 +166,8 @@ Export the 4 individual 1080p JPG files packaged together in a single ZIP archiv
     </tr>
   </tbody>
 </table>
+
+<hr>
 
 <h2 id="video">🎥 Video</h2>
 
