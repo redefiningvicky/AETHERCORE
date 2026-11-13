@@ -4,7 +4,7 @@
 
   <p>
     A 10-second cinematic sequence bridging 
-    photonic computing with forest habitat.
+    photonic computing with forest habitat as vision.
   </p>
 
 </div>
