@@ -17,7 +17,7 @@
   <li><a href="#objective">Objective</a></li>
   <li><a href="#project-details">Project Details</a></li>
   <li><a href="#visual-narrative">Visual Narrative</a></li>
-  <li><a href="#prompts">Prompts</a></li>
+  <li><a href="#prompt">Prompt</a></li>
   <li><a href="#film">Film</a></li>
 
 </ul>
