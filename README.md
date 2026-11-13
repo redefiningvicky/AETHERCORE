@@ -18,6 +18,7 @@
   <li><a href="#inspiration">Inspiration</a></li>
   <li><a href="#project-details">Project Details</a></li>
   <li><a href="#visual-narrative">Visual Narrative</a></li>
+  <li><a href="#visual-narrative-time">Visual Narrative Time</a></li>
   <li><a href="#prompt">Prompt</a></li>
   <li><a href="#film">Film</a></li>
 
@@ -87,10 +88,21 @@
 </p>
 
 <ul>
-  <li><strong>Stage 1 (Start):</strong> 00:00.2. Extreme macro close-up on the AetherCore micro-processor's intricate silver circuit traces, quartz crystals, and pulsing amber/turquoise light pathways.</li>
-  <li><strong>Stage 2 (Transition):</strong> 00:03.5. Mid-transition tracking shot gliding backward away from the chip table, revealing the warm interior depth of the mass-timber structure.</li>
-  <li><strong>Stage 3 (Interior):</strong> 00:06.0. Wide interior view showcasing the sleek zero-waste living space and floor-to-ceiling glass windows framing the forest outside.</li>
-  <li><strong>Stage 4 (End):</strong> 00:09.5. Pristine wide exterior shot looking back at the complete cabin nestled by a flowing mountain stream under golden hour light.</li>
+  <li><strong>Stage 1 (Start):</strong> Extreme macro close-up on the AetherCore micro-processor's intricate silver circuit traces, quartz crystals, and pulsing amber/turquoise light pathways.</li>
+  <li><strong>Stage 2 (Transition):</strong> Mid-transition tracking shot gliding backward away from the chip table, revealing the warm interior depth of the mass-timber structure.</li>
+  <li><strong>Stage 3 (Interior):</strong> Wide interior view showcasing the sleek zero-waste living space and floor-to-ceiling glass windows framing the forest outside.</li>
+  <li><strong>Stage 4 (End):</strong> Pristine wide exterior shot looking back at the complete cabin nestled by a flowing mountain stream under golden hour light.</li>
+</ul>
+
+<hr>
+
+<h2 id="visual-narrative-time">🕰️ Visual Narrative Time</h2>
+
+<ul>
+  <li><strong>Stage 1 (Start):</strong> 00:00.2</li>
+  <li><strong>Stage 2 (Transition):</strong> 00:03.5</li>
+  <li><strong>Stage 3 (Interior):</strong> 00:06.0</li>
+  <li><strong>Stage 4 (End):</strong> 00:09.5</li>
 </ul>
 
 <hr>
