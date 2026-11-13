@@ -22,6 +22,8 @@ jobs:
         uses: actions/checkout@v4
       - name: Prepare site
         run: |
+          test -f index.html
+          test -f Video/Aethercore_Video.mp4
           mkdir -p _site/Video _site/Image
           cp index.html _site/index.html
           cp Video/Aethercore_Video.mp4 _site/Video/
