@@ -120,6 +120,8 @@
 
 <h2 id="film">🎞️ Film</h2>
 
+<h3>Stage 1 (Start)</h3>
+
 <table>
   <tr>
     <td>
@@ -133,6 +135,8 @@
     </td>
   </tr>
 </table>
+
+<h3>Stage 2 (Transition)</h3>
 
 <table>
   <tr>
@@ -148,6 +152,8 @@
   </tr>
 </table>
 
+<h3>Stage 3 (Interior)</h3>
+
 <table>
   <tr>
     <td>
@@ -161,6 +167,8 @@
     </td>
   </tr>
 </table>
+
+<h3>Stage 4 (End)</h3>
 
 <table>
   <tr>
