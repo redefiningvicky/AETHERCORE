@@ -3,7 +3,7 @@
   <h1>🌲 AETHERCORE</h1>
 
   <p>
-    A 10-second cinematic video bridging a photonic processor and a forest habitat, illustrating their regenerative symbiosis.
+    A 10-second cinematic video bridging a photonic processor and forest habitat, illustrating their regenerative symbiosis.
   </p>
 
 </div>
