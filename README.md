@@ -174,7 +174,7 @@ Export the 4 individual 1080p JPG files packaged together in a single ZIP archiv
 
 <h2 id="images">🎞️ Images </h2>
 
-<h3>Full Website Screenshot</h3>
+<h3>Video Screenshot</h3>
 
 <a href="Image/AETHERCORE_Website_Full_Page.jpg">
   <img src="Image/AETHERCORE_Website_Full_Page.jpg" alt="Full AETHERCORE website page screenshot" width="100%" />
