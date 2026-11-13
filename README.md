@@ -15,6 +15,7 @@
 
 <ul>
   <li><a href="#objective">Objective</a></li>
+  <li><a href="#inspiration">Inspiration</a></li>
   <li><a href="#project-details">Project Details</a></li>
   <li><a href="#visual-narrative">Visual Narrative</a></li>
   <li><a href="#prompt">Prompt</a></li>
@@ -34,6 +35,10 @@
   a pristine mountain stream and forest valley. Developed using Gemini iterative prompt engineering, 
   structured multi-frame keyframing, and video AI generation.
 </p>
+
+<hr>
+
+<h2 id="inspiration">🎬 Inspiration</h2>
 
 <hr>
 
