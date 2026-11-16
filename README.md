@@ -262,10 +262,6 @@ Export the 4 individual 1080p JPG files packaged together in a single ZIP archiv
 <div align="center">
 
   <p>
-    <a href="https://github.com/redefiningvicky/Generative-AI-Projects">
-      Back to Generative AI Projects
-    </a>
-    &nbsp; • &nbsp;
     <a href="https://github.com/redefiningvicky/redefiningvicky">
       Back to Portfolio
     </a>
